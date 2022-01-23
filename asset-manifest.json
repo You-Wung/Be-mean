@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Be-mean/static/css/main.df356d07.css",
+    "main.js": "/Be-mean/static/js/main.e718e1af.js",
+    "static/media/meal.png": "/Be-mean/static/media/meal.28da009a13eb61be58b1.png",
+    "static/media/한나.otf": "/Be-mean/static/media/한나.5300508c2b24c3c3e47e.otf",
+    "static/media/한나air.otf": "/Be-mean/static/media/한나air.7642be7d66af0406463b.otf",
+    "static/media/logo.png": "/Be-mean/static/media/logo.10cd0a6757a135ff65a0.png",
+    "static/media/1.png": "/Be-mean/static/media/1.1f86fe5ce5b6a2b3ebc2.png",
+    "static/media/10.png": "/Be-mean/static/media/10.3bbe180cc2d4f2a34da2.png",
+    "static/media/6.png": "/Be-mean/static/media/6.e6ef07db018137225abf.png",
+    "static/media/slick.svg": "/Be-mean/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Be-mean/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Be-mean/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Be-mean/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Be-mean/index.html",
+    "main.df356d07.css.map": "/Be-mean/static/css/main.df356d07.css.map",
+    "main.e718e1af.js.map": "/Be-mean/static/js/main.e718e1af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df356d07.css",
+    "static/js/main.e718e1af.js"
+  ]
+}
